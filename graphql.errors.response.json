@@ -1,0 +1,18 @@
+{
+	"data": null,
+	"error": "Syntax error while parsing GraphQL query. Unexpected end of input, expected OperationDefinition, FragmentDefinition or TypeSystemDefinition (line 1, column 1):\n\n^",
+	"errors": [{
+		"message": "Cannot query field 'charact' on type 'Film'. Did you mean 'characters'? (line 5, column 5):\n    charact ers {\n    ^",
+		"locations": [{
+			"line": 5,
+			"column": 5
+		}]
+	},
+	{
+		"message": "Cannot query field 'ers' on type 'Film'. (line 5, column 13):\n    charact ers {\n            ^",
+		"locations": [{
+			"line": 5,
+			"column": 13
+		}]
+	}]
+}

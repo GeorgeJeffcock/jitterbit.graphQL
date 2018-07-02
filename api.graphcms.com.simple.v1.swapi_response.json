@@ -1,0 +1,39 @@
+{
+	"Starship": {
+		"name": "Millennium Falcon",
+		"hyperdriveRating": 0.5,
+		"pilots": [{
+			"name": "Chewbacca",
+			"height": 228,
+			"homeworld": {
+				"name": "Kashyyyk"
+			}
+		},
+		{
+			"name": "Han Solo",
+			"height": 180,
+			"homeworld": {
+				"name": "Corellia"
+			}
+		},
+		{
+			"name": "Lando Calrissian",
+			"height": 177,
+			"homeworld": {
+				"name": "Socorro"
+			}
+		},
+		{
+			"name": "Nien Nunb",
+			"height": 160,
+			"homeworld": {
+				"name": "Sullust"
+			}
+		},
+		{
+			"name": "Rey",
+			"height": null,
+			"homeworld": null
+		}]
+	}
+}
